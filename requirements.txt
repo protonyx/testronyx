@@ -1,0 +1,4 @@
+injector
+flask>=0.11
+requests>=2.10
+pyzmq>=15.3
